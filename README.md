@@ -27,6 +27,8 @@ A curated list of WebSharper libraries, samples and resources.
     - [Mobile](#mobile)
     - [Reactive libraries](#reactive-libraries-1)
 - [Resources](#resources)
+  - [Blogs](#blogs)
+  - [Sites](#sites)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -250,4 +252,16 @@ Using libraries written in JavaScript from WebSharper.
 
 ## Resources
 
-TODO
+### Blogs
+
+* [The WebSharper team's blog](http://websharper.com/blog) - Official announcements, releases, tutorials.
+
+* [Kimserey Lam's blog](https://kimsereyblog.blogspot.com/search/label/WebSharper)
+
+* [Youenn Bouglouan's blog](http://www.ybouglouan.pl/)
+
+### Sites
+
+* [Try WebSharper](https://try.websharper.com) - Write client-side code in your browser and see it running immediately, in F# or C#.
+
+* [Official documentation](https://developers.websharper.com)
