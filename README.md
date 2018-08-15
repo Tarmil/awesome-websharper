@@ -32,48 +32,48 @@ A curated list of WebSharper libraries, samples and resources.
 
 ## Examples
 
-* ![F#](fsharp.png) Written in F#
-* ![C#](csharp.png) Written in C#
-* ![.NET Core](netcore.png) Written for .NET Core
-* ![.NET Framework](netfx.png) Written for .NET Framework
+* <img width="20" alt="F#" src="fsharp.png"/> = Written in F#
+* <img width="20" alt="C#" src="csharp.png"/> = Written in C#
+* <img width="20" alt=".NET Core" src="netcore.png"/> = Written for .NET Core
+* <img width="20" alt=".NET Framework" src="netfx.png"/> = Written for .NET Framework
 
 ### Applications
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) 2048](https://github.com/intellifactory/2048) - The well-known game 2048 reimplemented in F#, with a few custom rule options.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> 2048](https://github.com/intellifactory/2048) - The well-known game 2048 reimplemented in F#, with a few custom rule options.
 
-* [![C#](csharp.png) ![.NET Framework](netfx.png) BookCollection](https://github.com/websharper-samples/BookCollection) - A client-server CRUD application using remoting and a reactive client side, with [full tutorial](https://github.com/websharper-samples/BookCollection/blob/master/BookCollection.md).
+* [<img width="20" alt="C#" src="csharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> BookCollection](https://github.com/websharper-samples/BookCollection) - A client-server CRUD application using remoting and a reactive client side, with [full tutorial](https://github.com/websharper-samples/BookCollection/blob/master/BookCollection.md).
 
-* <a name="LoginWithBulma"></a>[![F#](fsharp.png) ![.NET Core](netcore.png) LoginWithBulma](https://github.com/websharper-samples/LoginWithBulma) - A client-side login page using HTML templating, with full tutorial.
+* <a name="LoginWithBulma"></a>[<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> LoginWithBulma](https://github.com/websharper-samples/LoginWithBulma) - A client-side login page using HTML templating, with full tutorial.
 
-* [![F#](fsharp.png) ![.NET Core](netcore.png) Counter](https://github.com/websharper-samples/Counter) - Follow-up to [LoginWithBulma](#LoginWithBulma): A client-side Model-View-Update-style counter, with full tutorial.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> Counter](https://github.com/websharper-samples/Counter) - Follow-up to [LoginWithBulma](#LoginWithBulma): A client-side Model-View-Update-style counter, with full tutorial.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) REST API](https://github.com/intellifactory/rest-api.sample) - A simple CRUD REST API.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> REST API](https://github.com/intellifactory/rest-api.sample) - A simple CRUD REST API.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) MVU TodoMVC](https://github.com/dotnet-websharper/mvu/tree/master/WebSharper.Mvu.TodoMvc) - The classic TodoMVC app written with UI and [MVU](#mvu).
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> MVU TodoMVC](https://github.com/dotnet-websharper/mvu/tree/master/WebSharper.Mvu.TodoMvc) - The classic TodoMVC app written with UI and [MVU](#mvu).
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) TodoMVC](https://github.com/intellifactory/samples.todomvc) - The classic TodoMVC app written with UI.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> TodoMVC](https://github.com/intellifactory/samples.todomvc) - The classic TodoMVC app written with UI.
 
 ### Library demos
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) BabylonJs](https://github.com/intellifactory/websharper.babylonjs.samples) - simple 3D scenes.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> BabylonJs](https://github.com/intellifactory/websharper.babylonjs.samples) - simple 3D scenes.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) Google Visualization](https://github.com/intellifactory/websharper.googlevisualization.sample) - A simple bar chart with Google Visualization.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> Google Visualization](https://github.com/intellifactory/websharper.googlevisualization.sample) - A simple bar chart with Google Visualization.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) HighCharts](https://github.com/intellifactory/websharper.highcharts.samples) - [Highcharts](#highcharts), Highmaps and Highstock graphs.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> HighCharts](https://github.com/intellifactory/websharper.highcharts.samples) - [Highcharts](#highcharts), Highmaps and Highstock graphs.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) MongoLab](https://github.com/intellifactory/websharper.mongolab.samples) - A [MongoLab](#mongolab)-backed notes application.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> MongoLab](https://github.com/intellifactory/websharper.mongolab.samples) - A [MongoLab](#mongolab)-backed notes application.
 
-<!-- * [![F#](fsharp.png) ![.NET Framework](netfx.png) PouchDb](https://github.com/intellifactory/websharper.pouchdb.samples) - (not working correctly?) -->
+<!-- * [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> PouchDb](https://github.com/intellifactory/websharper.pouchdb.samples) - (not working correctly?) -->
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) ThreeJs](https://github.com/intellifactory/websharper.threejs.samples) - simple 3D scenes.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> ThreeJs](https://github.com/intellifactory/websharper.threejs.samples) - simple 3D scenes.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) UI Samples](https://github.com/intellifactory/websharper.ui.next.samples) - A set of samples to discover the UI reactive library.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> UI Samples](https://github.com/intellifactory/websharper.ui.next.samples) - A set of samples to discover the UI reactive library.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) WebAudio](https://github.com/intellifactory/websharper.webaudio.samples) - Play and manipulate audio.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebAudio](https://github.com/intellifactory/websharper.webaudio.samples) - Play and manipulate audio.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) WebRTC](https://github.com/intellifactory/websharper.webrtc.samples) - Record audio and video.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebRTC](https://github.com/intellifactory/websharper.webrtc.samples) - Record audio and video.
 
-* [![F#](fsharp.png) ![.NET Framework](netfx.png) WebSpeech](https://github.com/intellifactory/websharper.webspeech.samples) - Speech synthesis and recognition.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebSpeech](https://github.com/intellifactory/websharper.webspeech.samples) - Speech synthesis and recognition.
 
 
 ## Libraries
