@@ -41,7 +41,7 @@ A curated list of WebSharper libraries, samples and resources.
 
 ### Applications
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> 2048](https://github.com/intellifactory/2048) - The well-known game 2048 reimplemented in F#, with a few custom rule options.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> 2048](https://github.com/intellifactory/2048) - The well-known game 2048 reimplemented in F#, with a few custom rule options. [Running live](https://intellifactory.github.io/2048/)
 
 * [<img width="20" alt="C#" src="csharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> BookCollection](https://github.com/websharper-samples/BookCollection) - A client-server CRUD application using remoting and a reactive client side, with [full tutorial](https://github.com/websharper-samples/BookCollection/blob/master/BookCollection.md).
 
@@ -53,31 +53,31 @@ A curated list of WebSharper libraries, samples and resources.
 
 * [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> MVU TodoMVC](https://github.com/dotnet-websharper/mvu/tree/master/WebSharper.Mvu.TodoMvc) - The classic TodoMVC app written with UI and [MVU](#mvu).
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> TodoMVC](https://github.com/intellifactory/samples.todomvc) - The classic TodoMVC app written with UI.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> TodoMVC](https://github.com/intellifactory/samples.todomvc) - The classic TodoMVC app written with UI. [Running live](https://intellifactory.github.io/samples.todomvc/)
 
 ### Library demos
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> BabylonJs](https://github.com/intellifactory/websharper.babylonjs.samples) - simple 3D scenes.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> BabylonJs](https://github.com/intellifactory/websharper.babylonjs.samples) - simple 3D scenes. [Running live](https://intellifactory.github.io/websharper.babylonjs.samples/)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> Google Visualization](https://github.com/intellifactory/websharper.googlevisualization.sample) - A simple bar chart with Google Visualization.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> Google Visualization](https://github.com/intellifactory/websharper.googlevisualization.sample) - A simple bar chart with Google Visualization. [Running live](https://intellifactory.github.io/websharper.googlevisualization.sample/)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> HighCharts](https://github.com/intellifactory/websharper.highcharts.samples) - [Highcharts](#highcharts), Highmaps and Highstock graphs.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> HighCharts](https://github.com/intellifactory/websharper.highcharts.samples) - [Highcharts](#highcharts), Highmaps and Highstock graphs. [Running live](http://intellifactory.github.io/websharper.highcharts.samples/)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> MongoLab](https://github.com/intellifactory/websharper.mongolab.samples) - A [MongoLab](#mongolab)-backed notes application.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> MongoLab](https://github.com/intellifactory/websharper.mongolab.samples) - A [MongoLab](#mongolab)-backed notes application. [Running live](http://intellifactory.github.io/websharper.mongolab.samples/)
 
 <!-- * [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> PouchDb](https://github.com/intellifactory/websharper.pouchdb.samples) - (not working correctly?) -->
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> React](https://github.com/dotnet-websharper/react/tree/master/WebSharper.React.Tests) - A [React](#react) Tic-Tac-Toe game.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> React](https://github.com/dotnet-websharper/react/tree/master/WebSharper.React.Tests) - A [React](#react) Tic-Tac-Toe game. [Running live](https://dotnet-websharper.github.io/react/)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> ThreeJs](https://github.com/intellifactory/websharper.threejs.samples) - simple 3D scenes.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> ThreeJs](https://github.com/intellifactory/websharper.threejs.samples) - simple 3D scenes. [Running live](https://intellifactory.github.io/websharper.threejs.samples/)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> UI Samples](https://github.com/intellifactory/websharper.ui.next.samples) - A set of samples to discover the UI reactive library.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> UI Samples](https://github.com/intellifactory/websharper.ui.next.samples) - A set of samples to discover the UI reactive library. [Running live](https://intellifactory.github.io/websharper.ui.next.samples/#/samples/SimpleTextBox)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebAudio](https://github.com/intellifactory/websharper.webaudio.samples) - Play and manipulate audio.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebAudio](https://github.com/intellifactory/websharper.webaudio.samples) - Play and manipulate audio. [Running live](https://intellifactory.github.io/websharper.webaudio.samples/)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebRTC](https://github.com/intellifactory/websharper.webrtc.samples) - Record audio and video.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebRTC](https://github.com/intellifactory/websharper.webrtc.samples) - Record audio and video. [Running live](https://intellifactory.github.io/websharper.webrtc.samples/)
 
-* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebSpeech](https://github.com/intellifactory/websharper.webspeech.samples) - Speech synthesis and recognition.
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> WebSpeech](https://github.com/intellifactory/websharper.webspeech.samples) - Speech synthesis and recognition. [Running live](https://intellifactory.github.io/websharper.webspeech.samples/)
 
 
 ## Libraries
