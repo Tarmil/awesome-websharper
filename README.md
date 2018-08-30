@@ -67,6 +67,8 @@ A curated list of WebSharper libraries, samples and resources.
 
 <!-- * [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> PouchDb](https://github.com/intellifactory/websharper.pouchdb.samples) - (not working correctly?) -->
 
+* [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> React](https://github.com/dotnet-websharper/react/tree/master/WebSharper.React.Tests) - A [React](#react) Tic-Tac-Toe game.
+
 * [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> ThreeJs](https://github.com/intellifactory/websharper.threejs.samples) - simple 3D scenes.
 
 * [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> UI Samples](https://github.com/intellifactory/websharper.ui.next.samples) - A set of samples to discover the UI reactive library.
@@ -248,7 +250,7 @@ Using libraries written in JavaScript from WebSharper.
 
 * [KnockoutJs](https://github.com/dotnet-websharper/knockoutjs) - MVVM framework for reactive applications.
 
-* [Facebook React](https://github.com/dotnet-websharper/react) - A JavaScript library for building user interfaces.
+* <a name="react"></a>[Facebook React](https://github.com/dotnet-websharper/react) - A JavaScript library for building user interfaces.
 
 ## Resources
 
