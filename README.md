@@ -66,7 +66,7 @@ Libraries written with and for WebSharper.
     * <img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> Examples: [Source](https://github.com/websharper-samples/ui) - [Running live](https://websharper-samples.github.io/ui/#/samples/SimpleTextBox)
 
     * <a name="forms"></a>[Forms](https://github.com/dotnet-websharper/forms) - an implementation of "Piglets" for UI. It provides a concise syntax to define forms and their validation with clear model vs rendering separation of concerns.
-    * <img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> Example: [Source](https://github.com/websharper-samples/Forms) - [Running live](https://websharper-samples.github.io/Forms)
+        * <img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> Example: [Source](https://github.com/websharper-samples/Forms) - [Running live](https://websharper-samples.github.io/Forms)
     
     * [Forms.Bootstrap](https://github.com/dotnet-websharper/forms.bootstrap) - Bootstrap-based widgets for [Forms](#forms).
         * <img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Core" src="netcore.png"/> Example: [Source](https://github.com/websharper-samples/Forms.Bootstrap) - [Running live](https://websharper-samples.github.io/Forms.Bootstrap)
