@@ -28,6 +28,7 @@ A curated list of WebSharper libraries, samples and resources.
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Sites](#sites)
+  - [Academic publications](#academic-publications)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -288,3 +289,23 @@ Using libraries written in JavaScript from WebSharper.
 * [Try WebSharper](https://try.websharper.com) - Write client-side code in your browser and see it running immediately, in F# or C#.
 
 * [Official documentation](https://developers.websharper.com)
+
+### Academic publications
+
+* Loic Denuziere, Adam Granicz. **Enabling modular persistence for reactive data models in F# client-server web applications**. In *Modularity*, Malaga, Spain, 2016. [ACM](https://dl.acm.org/citation.cfm?id=2892672)
+
+* Adam Granicz, Loic Denuziere. **Functional, Reactive Web Programming in F#**. In *Central European Functional Programming School* (CEFP), Budapest, Hungary, 2015, pp. 137-160. [Springer](https://link.springer.com/chapter/10.1007/978-3-030-28346-9_5)
+
+* Simon Fowler, Loic Denuziere, Adam Granicz. **Reactive Single-Page Applications with Dynamic Dataflow**. In *Practical Aspects of Declarative Languages* (PADL), Portland, OR, USA. 2015. [Springer](https://link.springer.com/chapter/10.1007/978-3-319-19686-2_5), **[PDF1](http://simonjf.com/writing/padl2015.pdf)**, [PDF2](https://www.researchgate.net/publication/300890501_Reactive_Single-Page_Applications_with_Dynamic_Dataflow)
+
+* Loic Denuziere, Adam Granicz, Simon Fowler. **Reactive Abstractions for Functional Web Applications**. Submitted to *Implementation and Application of Functional Languages* (IFL), Koblenz, Germany, 2015. **[PDF](https://pdfs.semanticscholar.org/eb57/611ccb0c8c2ef4beeed2709cfa37444a068a.pdf)**
+
+* Adam Granicz. **Functional Web and Mobile Development in F#**. In *Central European Functional Programming School* (CEFP), Budapest, Hungary, 2013, pp. 381-406. [Springer](https://link.springer.com/chapter/10.1007/978-3-319-15940-9_9)
+
+* Loic Denuziere, Ernesto Rodriguez, Adam Granicz. **Piglets to the Rescue: Declarative User Interface Specification with Pluggable View Models**. In Symposium on Implementation and Application of Functional Languages (IFL), Nijmegen, The Netherlands, 2013. [ACM](https://dl.acm.org/citation.cfm?id=2620689), **[PDF](http://www.cs.ru.nl/P.Achten/IFL2013/symposium_proceedings_IFL2013/ifl2013_submission_29.pdf)**.
+
+* Loic Denuziere, Adam Granicz, Anton Tayanovskyy. **Visualizing data on the web**. In *Data-driven Functional Programming* (DDFP), Rome, Italy, 2013, pp. 19-22. [ACM](https://dl.acm.org/citation.cfm?id=2429383)
+
+* Joel Bjornson, Anton Tayanovskyy, Adam Granicz. **Composing Reactive GUIs in F# Using WebSharper**. In Symposium on Implementation and Application of Functional Languages (IFL), Alphen aan den Rijn, The Netherlands, 2010. pp. 203-216. [Springer](https://link.springer.com/chapter/10.1007/978-3-642-24276-2_13)
+
+* Alex Peake, Adam Granicz. **The first substantial line of business application in F#**. In *Commercial Users of Functional Programming* (CUFP), Tokyo, Japan, 2009.
