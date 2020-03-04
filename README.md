@@ -292,6 +292,8 @@ Using libraries written in JavaScript from WebSharper.
 
 ### Academic publications
 
+* Adam Granicz, Jozsef Uri, Andras Janko. **Synthesizing User Interfaces using Functional Reactive Web Abstractions**. In *Fourth International Workshop on Programming Technology for the Future Web* (ProWeb20), Porto, Portugal, 2020. To appear.
+
 * Loic Denuziere, Adam Granicz. **Enabling modular persistence for reactive data models in F# client-server web applications**. In *Modularity*, Malaga, Spain, 2016. [ACM](https://dl.acm.org/citation.cfm?id=2892672)
 
 * Adam Granicz, Loic Denuziere. **Functional, Reactive Web Programming in F#**. In *Central European Functional Programming School* (CEFP), Budapest, Hungary, 2015, pp. 137-160. [Springer](https://link.springer.com/chapter/10.1007/978-3-030-28346-9_5)
