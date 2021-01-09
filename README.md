@@ -55,6 +55,7 @@ A curated list of WebSharper libraries, samples and resources.
 
 * [<img width="20" alt="F#" src="fsharp.png"/> <img width="20" alt=".NET Framework" src="netfx.png"/> TodoMVC](https://github.com/websharper-samples/TodoMVC) - The classic TodoMVC app written with UI. [Running live](https://websharper-samples.github.io/TodoMVC/)
 
+* [<img width="20" alt="F#" src="fsharp.png"/><img width="20" alt=".NET Core" src="netcore.png"/> [Twitter Clone using Websockets](https://github.com/GaneshKurcheti/TwitterClone-Websharper-WebSockets).
 
 ## Libraries
 
